@@ -13,32 +13,25 @@ Explore **AI tools, prompts, tutorials, courses, blogs, guides, and game develop
 
 ---
 
-## 🚀 Explore GamineAI
+## 🚀 What You Can Do on GamineAI
 
-### AI Tools
-Discover the best AI tools for **game development**.
+### 🎮 Create AI Games
+Generate your own playable games **100% using AI**, from puzzle games to strategy, arcade, and more.
 
-### AI Prompts
-Copy ready-to-use prompts to generate content, apps, or AI-powered games.
+### 🛠 AI Builder
+Design game mechanics, characters, levels, and graphics using our **interactive AI Builder** — no coding required.
 
-### AI Courses
-Learn AI step by step with **practical projects and tutorials**.
+### 💡 AI Prompts
+Use ready-made prompts to automatically generate games, assets, and game ideas in seconds.
 
-### Free Resources
-Access free tools, prompts, and game assets for your projects.
+### 📚 Courses
+Learn how to build AI-powered games step by step with tutorials and practical projects.
 
-### Demo Projects
-Download playable AI-generated games and sample projects.
+### 📝 Blog & Guides
+Read articles, guides, and tips on creating AI games, using AI tools, and mastering AI game design.
 
-### Blog
-Read AI news, tutorials, and tips to stay updated with the latest trends.
-
-### Guides
-Step-by-step instructions to master AI tools and build real projects.
-
-### Builder
-Create your own AI-powered pages, games, or content using our **online Builder**. Easy, fast, and interactive.
-
+### 🎁 Free Resources
+Download free game assets, AI templates, and prompts to accelerate your AI game development.
 ---
 
 ## ⭐ Why Star This Repo?
